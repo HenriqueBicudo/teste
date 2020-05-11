@@ -1,0 +1,25 @@
+body{
+    background-image: url('https://i.redd.it/e20jsjlfilr41.jpg');
+    background-size:100%;
+      font-family:sans-serif;
+    }
+        a{
+          text-decoration: none;
+          color:  #a8b589;
+        }
+        .menu ul {
+            display: flex;
+            justify-content: space-around;
+        }
+        .menu li {
+            list-style:none;
+        }
+        .site-title{
+      text-align: center;
+      color: #716f6e;
+    }
+    .site-subtitle{
+      text-align: center;
+      color:#a38261;
+      font-style:Sans-serif;
+    }
